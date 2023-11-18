@@ -1,0 +1,22 @@
+
+				Compass Travel and Tours
+			     Transportation Rate for Pilgrims
+
+
+Sector			Car		Hundyi H1	Hiace		GMC		Coaster
+	
+Jed Apt - Mak		SAR 350		SAR 450		SAR 450		SAR 500		SAR 550
+
+Mak - Jed Apt		SAR 350		SAR 450		SAR 450		SAR 500		SAR 550
+
+Mak -  Med		SAR 550		SAR 650		SAR 750		SAR 850		SAR 950
+
+Med - Mak		SAR 550		SAR 650		SAR 750		SAR 850		SAR 950	
+
+Med Apt - Med		SAR 250		SAR 350		SAR 350		SAR 350		SAR 450
+
+Med - Med Apt		SAR 250		SAR 350		SAR 350		SAR 350		SAR 450
+
+Ziyarat Mak		SAR 220		SAR 350		SAR 400		SAR 400		SAR 450
+
+Ziyarat Med		SAR 220		SAR 350		SAR 400		SAR 400		SAR 450
