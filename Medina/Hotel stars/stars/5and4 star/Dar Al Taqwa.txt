@@ -1,0 +1,12 @@
+Dar Al Taqwa	
+					
+Validity		Days		Double 	Triple	Quad	Meals	
+
+Till 19 Sep		Weekdays	1370	1760	N/A	BB		
+			Weekends	1570	1960
+			
+26 Sep till 01 Nov	Weekdays	1370	1760	N/A	BB		
+			Weekends	1570	1960	
+		
+18 Dec till 05 Jan	Weekdays	1570	1960	N/A	BB	
+			Weekends	1770	2160			

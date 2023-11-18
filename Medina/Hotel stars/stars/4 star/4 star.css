@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #000000;
+}
+
+header {
+    background-color: #333;
+    background-image: url('zzz.jpg');
+    background-size: cover; /* Options include 'cover', 'contain', or specific dimensions */
+    background-repeat: no-repeat; /* 'repeat', 'repeat-x', 'repeat-y', or 'no-repeat' */
+    background-position: center center; /* Control the position (e.g., 'center center', 'top left') */
+    background-color: rgba(255, 255, 255, 0.5); /* Background color with alpha transparency */
+
+    
+    padding: 200px 0;
+}
+.text-box {
+    border: 2px solid #000; /* Border properties (2px width, black color) */
+    padding: 2px; /* Padding inside the box */
+   
+    margin: 2px; /* Margin outside the box */
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: rgba(255, 255, 255, 0.7);
+    
+
+}
+
+
+h1 {
+    margin: 0;text-align: center;
+}
+
+ul {
+    list-style-type: none; /* Remove default list styles (bullet points) */
+    padding: 0; /* Remove default padding for the unordered list */
+}
+
+li {
+    /*background-color: #fff;*/
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    display: inline-block;
+    /*box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);*/
+    text-align: left; /* Left-align the list items for a straight-line format */
+    margin: 10px 0; /* Add margin between list items */
+}
+
+#searchInput {
+    padding: 10px;
+    width: 20%;
+    margin-top: 50px;
+    color: #ffffff;
+    
+/*box-sizing: border-box;*/
+}
+
+.custom-link {
+    text-decoration: none;
+    color: #ffffff; /* You can change the color to your preference */
+    font-weight: bold;
+    transition: color 0.3s;
+    
+}
+
+.custom-link:hover {
+    color: #000000; /* Change color on hover */
+    text-size-adjust: 40px;
+    margin-left: 30px;
+    background-color: #ffffff;
+    border: 15px solid #ffffff; /* Border properties (2px width, black color) */
+    border-radius: 10px 20px 30px 40px;
+    padding: 2px; /* Padding inside the box */
+   transition-delay: 30ms;
+    margin: 2px; /* Margin outside the box */
+    border: 2px solid #000; /* Border properties (2px width, black color) */
+    border-radius: 50px; /* Border radius to create rounded corners */
+    padding: 20px; /* Padding inside the box */
+    margin: 20px; /* Margin outside the box */
+    transition: all 0.25s;
+  
+}
+
+.firstOne{
+    padding-right: 90px; /* Adjust the value as needed for the desired spacing */
+    padding-top: 90px;
+}
+
+.secondOne{
+    padding-right: 90px; /* Adjust the value as needed for the desired spacing */
+    margin-top: 90px;
+    margin-bottom: 90px;
+}

@@ -1,0 +1,12 @@
+Crown Plaza	
+					
+Validity		Days		Double 	Triple	Quad	Meals	
+
+Till 19 Sep		Weekdays	560	660	760	BB	
+			Weekends	
+				
+26 Sep till 14 Dec	Weekdays	630	730	830	BB	
+			Weekends	
+				
+14 Dec till 05 Jan	Weekdays	1100	1200	1300	BB	
+			Weekends					

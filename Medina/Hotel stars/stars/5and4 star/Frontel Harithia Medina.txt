@@ -1,0 +1,15 @@
+Frontel Harithia Medina	
+					
+Validity		Days		Double 	Triple	Quad	Meals	
+
+Till 19 Sep		Weekdays	690	810	930	BB	
+			Weekends			
+		
+26 Sep till 15 Nov	Weekdays	690	810	930	BB	
+			Weekends				
+	
+15 Nov till 15 Dec	Weekdays	790	920	1050	BB	
+			Weekends				
+	
+15 Dec till 05 Jan	Weekdays	860	990	1120	BB	
+			Weekends					

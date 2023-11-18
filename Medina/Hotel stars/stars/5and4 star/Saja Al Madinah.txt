@@ -1,0 +1,18 @@
+Saja Al Madinah			
+			
+Validity		Days		Double 	Triple	Quad	Meals	
+
+Till 19 Sep		Weekdays	440	490	540	RO	
+			Weekends	490	540	590	
+	
+26 Sep till 15 Nov	Weekdays	490	590	690	RO	
+			Weekends	540	640	740	
+	
+15 Nov till 01 Dec	Weekdays	540	640	740	RO	
+			Weekends	590	690	790	
+	
+01 Dec till 18 Dec	Weekdays	490	590	690	RO	
+			Weekends	540	640	740	
+	
+18 Dec till 05 Jan	Weekdays	650	750	850	RO	
+			Weekends	700	800	900		

@@ -1,0 +1,10 @@
+ODST Medina	
+					
+Validity		Days	Double 	Triple	Quad	Meals	
+
+Till 19 Sep			350	360	370	RO		
+						
+26 Sep till 14 Dec		350	360	370	RO		
+						
+14 Dec till 05 Jan		430	440	450	RO		
+						

@@ -1,0 +1,12 @@
+Al Saha Medina		
+				
+Validity		Days		Double 	Triple	Quad	Meals		
+
+Till 19 Sep		Weekdays	440	450	460	RO		
+			Weekends					
+
+26 Sep till 15 Dec	Weekdays		425		RO		
+			Weekends					
+
+15 Dec till 05 Jan	Weekdays		500		RO		
+			Weekends					

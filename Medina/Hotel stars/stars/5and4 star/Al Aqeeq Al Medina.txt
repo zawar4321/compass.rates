@@ -1,0 +1,9 @@
+Al Aqeeq Al Medina 
+						
+Validity	Days	Double 	Triple	Quad	Meals	Remarks
+
+26 Sep till 15 Dec	Weekdays	670	770	870	BB	
+			Weekends					
+
+15 Dec till 05 Jan	Weekdays	930	1030	1130	BB	
+			Weekends					

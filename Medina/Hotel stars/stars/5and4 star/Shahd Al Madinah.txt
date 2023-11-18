@@ -1,0 +1,21 @@
+Shahd Al Madinah
+						
+Validity		Days		Double 	Triple	Quad	Meals	
+
+Till 19 Sep		Weekdays	1040	1220	1400	BB	
+			Weekends	1140	1320	1500	
+	
+26 Sep till 15 Oct	Weekdays	1000	1180	1360	BB	
+			Weekends	1120	1300	1480	
+	
+15 Oct till 01 Nov	Weekdays	1050	1230	1410	BB	
+			Weekends	1170	1350	1530	
+	
+01 Nov till 01 Dec	Weekdays	1350	1530	1710	BB	
+			Weekends	1470	1650	1830	
+	
+01 Dec till 18 Dec	Weekdays	1230	1420	1610	BB	
+			Weekends	1350	1540	1730	
+	
+18 Dec till 05 Jan	Weekdays	1540	1720	1900	BB	
+			Weekends	1670	1850	2030		

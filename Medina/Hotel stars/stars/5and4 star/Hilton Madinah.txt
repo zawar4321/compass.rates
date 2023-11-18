@@ -1,0 +1,21 @@
+Hilton Madinah	
+					
+Validity		Days		Double 	Triple	Quad	Meals	
+
+Till 19 Sep		Weekdays	1080	1280	N/A	BB	
+			Weekends	1200	1400		
+	
+26 Sep till 15 Oct	Weekdays	1080	1280	N/A	BB	
+			Weekends	1200	1400		
+	
+15 Oct till 01 Nov	Weekdays	1140	1380	N/A	BB	
+			Weekends	1260	1500		
+	
+01 Nov till 01 Dec	Weekdays	1440	1680	N/A	BB	
+			Weekends	1560	1800	
+		
+01 Dec till 18 Dec	Weekdays	1320	1560	N/A	BB	
+			Weekends	1440	1680	
+		
+18 Dec till 05 Jan	Weekdays	1730	1950	N/A	BB	
+			Weekends	1860	2080			

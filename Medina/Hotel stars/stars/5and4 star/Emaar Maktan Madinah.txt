@@ -1,0 +1,12 @@
+Emaar Maktan Madinah	
+					
+Validity		Days		Double 	Triple	Quad	Meals
+
+Till 19 Sep		Weekdays	460	510	570	BB	
+			Weekends	
+				
+26 Sep till 15 Dec	Weekdays	490	540	590	BB	
+			Weekends	
+				
+15 Dec till 05 Jan	Weekdays	700	800	900	BB	
+			Weekends					

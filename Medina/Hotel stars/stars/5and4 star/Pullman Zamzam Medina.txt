@@ -1,0 +1,18 @@
+Pullman Zamzam Medina
+						
+Validity		Days		Double 	Triple	Quad	Meals	
+
+Till 19 Sep		Weekdays	760	860	960	BB	
+			Weekends
+					
+26 Sep till 15 Nov	Weekdays	760	860	960	BB	
+			Weekends
+					
+15 Nov till 01 Dec	Weekdays	860	980	1100	BB	
+			Weekends
+					
+01 Dec till 18 Dec	Weekdays	760	860	960	BB	
+			Weekends
+					
+18 Dec till 05 Jan	Weekdays	1250	1400	1550	BB	
+			Weekends					

@@ -1,0 +1,10 @@
+Al Ritz Al Medina				
+		
+Validity		Days	Double 	Triple	Quad	Meals		
+
+Till 19 Sep			670	740	810	BB	
+						
+26 Sep till 14 Dec		670	740	810	BB	
+						
+14 Dec till 05 Jan		750	820	890	BB	
+						
