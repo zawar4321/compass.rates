@@ -1,0 +1,9 @@
+Conrad Hotel Makkah	
+					
+Validity		Days		Double 	Triple	Quad	Meals	
+
+Till 19 Sep		Weekdays	850	980	1110	BB	
+			Weekends	950	1080	1210	
+	
+26 Sep till 23 Nov	Weekdays	1020	1150	1280	BB	
+			Weekends	1120	1250	1380		

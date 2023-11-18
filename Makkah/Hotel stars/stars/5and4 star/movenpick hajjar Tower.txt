@@ -1,0 +1,17 @@
+
+Mövenpick Hajjar Tower						
+
+
+Validity		Days		Double 	Triple	Quad	Meals
+
+Till 19 Sep		Weekdays	730	850	970	BB
+			Weekends	780	900	1020	
+
+26 Sep till 15 Oct	Weekdays	730	850	970	BB
+			Weekends	780	900	1020	
+
+15 Oct till 18 Dec	Weekdays	830	950	1070	BB
+			Weekends	880	1000	1120	
+
+18 Dec till 05 Jan	Weekdays	1400	1550	1700	BB
+			Weekends	1500	1650	1800	

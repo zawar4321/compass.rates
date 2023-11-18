@@ -1,0 +1,16 @@
+
+Elaf Al Mashaer Makkah						
+
+Validity		Days		Double 	Triple	Quad	Meals
+
+Till 19 Sep		Weekdays	530	610	690	BB	
+			Weekends	580	660	740	
+	
+26 Sep till 15 Oct	Weekdays	580	660	740	BB	
+			Weekends	630	710	790	
+	
+15 Oct till 18 Dec	Weekdays	630	710	790	BB	
+			Weekends	680	760	840	
+	
+18 Dec till 05 Jan	Weekdays	1100	1200	1300	BB	
+			Weekends	1300	1400	1500		

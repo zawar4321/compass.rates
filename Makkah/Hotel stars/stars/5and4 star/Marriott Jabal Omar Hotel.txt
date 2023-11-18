@@ -1,0 +1,13 @@
+
+Marriott Jabal Omar Hotel
+						
+Validity		Days		Double 	Triple	Quad	Meals	
+
+Till 19 Sep		Weekdays	610	690	770	BB	
+			Weekends	660	740	820	
+	
+26 Sep till 15 Oct	Weekdays	660	740	820	BB	
+			Weekends	710	790	870	
+	
+15 Oct till 18 Dec	Weekdays	710	790	870	BB	
+			Weekends	760	840	920		

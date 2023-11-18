@@ -1,0 +1,16 @@
+
+Sheraton Hotel Makkah		
+				
+Validity		Days		Double 	Triple	Quad	Meals	
+
+Till 19 Sep		Weekdays	430	480	530	BB	
+			Weekends	480	530	580		
+
+26 Sep till 15 Oct	Weekdays	480	530	580	BB	
+			Weekends	530	580	630	
+	
+15 Oct till 18 Dec	Weekdays	530	580	630	BB	
+			Weekends	580	630	680	
+	
+18 Dec till 05 Jan	Weekdays	750	800	850	BB	
+			Weekends	850	900	950		

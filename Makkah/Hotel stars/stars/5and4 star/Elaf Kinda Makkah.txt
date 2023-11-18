@@ -1,0 +1,16 @@
+
+Elaf Kinda Makkah
+						
+Validity		Days		Double 	Triple	Quad	Meals	
+
+Till 19 Sep		Weekdays	630	730	830	BB	
+			Weekends	680	780	880	
+	
+26 Sep till 15 Oct	Weekdays	680	780	880	BB	
+			Weekends	730	830	930	
+	
+15 Oct till 18 Dec	Weekdays	730	830	930	BB	
+			Weekends	780	880	980	
+	
+18 Dec till 05 Jan	Weekdays	1200	1300	1400	BB	
+			Weekends	1300	1400	1500		

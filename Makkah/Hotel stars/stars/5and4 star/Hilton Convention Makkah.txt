@@ -1,0 +1,16 @@
+
+Hilton Convention Makkah	
+					
+Validity		Days		Double 	Triple	Quad	Meals	
+
+Till 19 Sep		Weekdays	580	660	740	BB	
+			Weekends	630	710	790		
+
+26 Sep till 15 Oct	Weekdays	680	760	840	BB	
+			Weekends	730	810	890		
+
+15 Oct till 18 Dec	Weekdays	730	810	890	BB	
+			Weekends	780	860	940		
+
+18 Dec till 05 Jan	Weekdays	1200	1300	1400	BB	
+			Weekends	1400	1500	1600		
