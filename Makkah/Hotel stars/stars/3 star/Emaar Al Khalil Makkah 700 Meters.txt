@@ -1,0 +1,8 @@
+Emaar Al Khalil Makkah 700 Meters
+						
+Validity		Days		Double 	Triple	Quad	Meals	
+
+16 Sep till 15 Dec	Weekdays	200	210	220	RO	
+			Weekends					
+15 Dec till 10 Jan	Weekdays	310	320	330	RO	
+			Weekends					
