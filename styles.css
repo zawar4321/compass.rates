@@ -8,7 +8,7 @@ body {
 
 header {
     background-color: #333;
-    background-image: url('zImageKaaba.jpg');
+    background-image: url('zImageKaaba1.jpg');
     background-size: cover; /* Options include 'cover', 'contain', or specific dimensions */
     background-repeat: no-repeat; /* 'repeat', 'repeat-x', 'repeat-y', or 'no-repeat' */
     background-position: center center; /* Control the position (e.g., 'center center', 'top left') */
